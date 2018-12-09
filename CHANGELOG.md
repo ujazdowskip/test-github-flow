@@ -2,6 +2,7 @@
 
 - wow such development
 - omg keep remote
+- omg keep remote configed
 
 # v1.1.0
 
