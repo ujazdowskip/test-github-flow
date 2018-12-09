@@ -1,5 +1,7 @@
 # next
 
+# v1.1.0
+
 - adds subheading
 - tries orig git-flow util
 
